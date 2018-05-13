@@ -2,4 +2,5 @@
 
 ## List:
 
-- batch rename
+- batch rename: `python .\batch_rename.py 'bicheng'`
+- ...
